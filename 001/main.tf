@@ -1,5 +1,5 @@
 variable "story" {
-default = "abhishek arun is awesome"
+default = "and now most of them are polluted or dry."
 }
 
 module "eswarmodule"{
